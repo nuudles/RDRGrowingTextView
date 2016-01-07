@@ -10,7 +10,7 @@
 		300A78771C3F125F0008E6D8 /* RDRGrowingTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 300A78761C3F125F0008E6D8 /* RDRGrowingTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		300A787B1C3F125F0008E6D8 /* RDRGrowingTextView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 300A78741C3F125F0008E6D8 /* RDRGrowingTextView.framework */; };
 		300A787C1C3F125F0008E6D8 /* RDRGrowingTextView.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 300A78741C3F125F0008E6D8 /* RDRGrowingTextView.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		300A78811C3F12690008E6D8 /* RDRGrowingTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 90A8D4551BC1B627003B7B55 /* RDRGrowingTextView.h */; };
+		300A78811C3F12690008E6D8 /* RDRGrowingTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 90A8D4551BC1B627003B7B55 /* RDRGrowingTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		300A78821C3F12690008E6D8 /* RDRGrowingTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A8D4561BC1B627003B7B55 /* RDRGrowingTextView.m */; };
 		90A8D4311BC1B4A5003B7B55 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A8D4301BC1B4A5003B7B55 /* main.m */; };
 		90A8D4341BC1B4A5003B7B55 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A8D4331BC1B4A5003B7B55 /* AppDelegate.m */; };
@@ -545,6 +545,7 @@
 				300A787E1C3F12600008E6D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		90A8D4261BC1B4A5003B7B55 /* Build configuration list for PBXProject "RDRGrowingTextViewExample" */ = {
 			isa = XCConfigurationList;
